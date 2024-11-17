@@ -469,9 +469,10 @@ button:hover {
   padding: 100px 0;
 }
 
-.container-f {
+.container-foot {
   display: flex;
   align-items: baseline;
+  margin-left: 156px;
 }
 
 .footer-logo {
