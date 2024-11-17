@@ -325,7 +325,8 @@ button:hover {
   margin-top: 8px;
 }
 
-.team-link-item {
+.team-link-item,
+.team-link-item-footer {
   display: flex;
   align-items: center;
   justify-content: center;
@@ -451,4 +452,20 @@ button:hover {
   display: inline-block;
   margin-bottom: 16px;
   color: #4d5ae5;
+}
+.socials-link-footer {
+  width: 24px;
+  height: 24px;
+}
+
+.social-media-footer {
+  display: flex;
+  align-items: baseline;
+}
+
+.team-link-list-footer {
+  display: flex;
+  gap: 16px;
+}
+.soc-media {
 }
