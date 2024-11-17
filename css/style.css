@@ -491,6 +491,11 @@ button:hover {
   margin-top: 16px;
 }
 
+.team-link {
+  fill: #f4f4fd;
+  transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
 .footer-logo-title {
   margin-right: 120px;
 }
