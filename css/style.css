@@ -469,6 +469,11 @@ button:hover {
   padding: 100px 0;
 }
 
+.container-f {
+  display: flex;
+  align-items: baseline;
+}
+
 .footer-logo {
   display: inline-block;
   margin-bottom: 16px;
@@ -477,7 +482,6 @@ button:hover {
 
 .social-media-footer {
   display: flex;
-  margin-left: 120px;
 }
 
 .team-link-list-footer {
@@ -486,10 +490,6 @@ button:hover {
   margin-top: 16px;
 }
 
-.container-f {
-  display: flex;
-  align-items: baseline;
-  margin-right: 120px;
-}
 .footer-logo-title {
+  margin-right: 120px;
 }
