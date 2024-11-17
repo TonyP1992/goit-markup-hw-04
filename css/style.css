@@ -489,4 +489,7 @@ button:hover {
 .container-f {
   display: flex;
   align-items: baseline;
+  margin-right: 120px;
+}
+.footer-logo-title {
 }
