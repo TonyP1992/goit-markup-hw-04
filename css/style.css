@@ -332,7 +332,6 @@ button:hover {
 
 .team-link-item,
 .team-link-item-footer {
-  fill: #f4f4fd;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -487,7 +486,7 @@ button:hover {
   margin-top: 16px;
 }
 
-.container-1 {
+.container-f {
   display: flex;
   align-items: baseline;
 }
