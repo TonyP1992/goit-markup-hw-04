@@ -429,7 +429,7 @@ button:hover {
   height: 300px;
 }
 
-.overlay-plus {
+.overlay {
   position: absolute;
   top: 0;
   line-height: 1.5;
